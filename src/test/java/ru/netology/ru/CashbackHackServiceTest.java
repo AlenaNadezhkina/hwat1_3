@@ -1,7 +1,7 @@
 package ru.netology.unit;
 
 import org.testng.annotations.Test;
-import ru.netology.ru.CashbackHackService;
+import ru.netology.ru.CashbackHackService;ssh-keygen -t ed25519 -C "your_email@example.com"
 
 import static org.testng.AssertJUnit.assertEquals;
 
